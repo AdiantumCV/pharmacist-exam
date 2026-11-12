@@ -1,0 +1,28 @@
+{
+  "subject": "115 年第二次 1305",
+  "totalQuestions": 80,
+  "pdfPages": 20,
+  "sourcePdf": "sources/115-2-1305.pdf",
+  "imageOptionQuestions": [
+    42,
+    54,
+    71,
+    75
+  ],
+  "optionImageCount": 16,
+  "cropImageCount": 9,
+  "manualReview": [
+    41,
+    42,
+    53,
+    54,
+    61,
+    62,
+    71,
+    72,
+    73,
+    75
+  ],
+  "warnings": [],
+  "limitation": "未逐題人工審核圖片邊界和文字；其他科目仍為原始擷取版本"
+}
